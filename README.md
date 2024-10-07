@@ -8,7 +8,8 @@
 
     <Body>
          <h1 class="Base_color"> My First website</h1>
-         <h1>My First Website</h1>
+         <h1> Fav Car: 1967 Ford Mustang</h1>
+         <h1> Color: Blue </h1>
          </Body>
          <p id="copyright" class="Base_color">Copyright 2024</p>
 </html>
