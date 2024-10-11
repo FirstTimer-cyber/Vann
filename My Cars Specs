@@ -15,28 +15,28 @@
         <ul>
             <li>
                 <h3>2001 Ford Mustang GT Bullitt</h3>
-                <p>Horsepower: 450 hp</p>
-                <p>Torque: 410 lb-ft</p>
-                <p>0-60 mph: 4.2 seconds</p>
-                <img src="mustang.jpg" alt="Ford Mustang GT" width="300">
+                <p>Horsepower: 265 hp</p>
+                <p>Torque: 305 lb-ft</p>
+                <p>0-60 mph: 5.7 seconds</p>
+                <img src="MustangGT.jfif" alt="Ford Mustang GT bullitt" width="300">
             </li>
             <li>
                 <h3>2002 Ford Ranger Fx4</h3>
-                <p>Horsepower: 455 hp</p>
-                <p>Torque: 455 lb-ft</p>
-                <p>0-60 mph: 4.0 seconds</p>
-                <img src="camaro.jpg" alt="Chevrolet Camaro SS" width="300">
+                <p>Horsepower: 207 hp</p>
+                <p>Torque: 238 lb-ft</p>
+                <p>0-60 mph: 8.0 seconds</p>
+                <img src="IMG_6250.JPG" alt="Ford Ranger Fx4" width="300">
             </li>
             <li>
-                <h3>Dodge Challenger R/T</h3>
-                <p>Horsepower: 375 hp</p>
-                <p>Torque: 410 lb-ft</p>
-                <p>0-60 mph: 4.8 seconds</p>
-                <img src="challenger.jpg" alt="Dodge Challenger R/T" width="300">
+                <h3>2011 Audi A5 Quattro</h3>
+                <p>Horsepower: 211 hp</p>
+                <p>Torque: 258 lb-ft</p>
+                <p>0-60 mph: 6.4 seconds</p>
+                <img src="A5.jfif" alt="Audi A5" width="300">
             </li>
         </ul>
 
-        <p>To learn more about car performance, visit <a href="https://www.caranddriver.com" target="_blank">Car and Driver</a>.</p>
+        <p>To learn more about car performance, visit <a href="https://www.motortrend.com/" target="_blank"> Its not the car it is the Driver</a>.</p>
     </main>
 
     <footer>
