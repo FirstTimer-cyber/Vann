@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Specifications</title>
+</head>
+<body>
+    <main>
+        <h1>Car Performance Specifications</h1>
+
+        <p>Here are my cars with their horsepower, torque, and 0-60 mph times.</p>
+
+        <h2>Car List</h2>
+        <ul>
+            <li>
+                <h3>2001 Ford Mustang GT Bullitt</h3>
+                <p>Horsepower: 450 hp</p>
+                <p>Torque: 410 lb-ft</p>
+                <p>0-60 mph: 4.2 seconds</p>
+                <img src="mustang.jpg" alt="Ford Mustang GT" width="300">
+            </li>
+            <li>
+                <h3>2002 Ford Ranger Fx4</h3>
+                <p>Horsepower: 455 hp</p>
+                <p>Torque: 455 lb-ft</p>
+                <p>0-60 mph: 4.0 seconds</p>
+                <img src="camaro.jpg" alt="Chevrolet Camaro SS" width="300">
+            </li>
+            <li>
+                <h3>Dodge Challenger R/T</h3>
+                <p>Horsepower: 375 hp</p>
+                <p>Torque: 410 lb-ft</p>
+                <p>0-60 mph: 4.8 seconds</p>
+                <img src="challenger.jpg" alt="Dodge Challenger R/T" width="300">
+            </li>
+        </ul>
+
+        <p>To learn more about car performance, visit <a href="https://www.caranddriver.com" target="_blank">Car and Driver</a>.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Car Specifications. All rights reserved.</p>
+    </footer>
+</body>
+</html>
